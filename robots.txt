@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://voidamen.github.io/voidamen.voidamen
+Sitemap: https://voidamen.github.io/app/voidamen.voidamen
+Sitemap: https://voidamen.github.io/assets/voidamen.voidamen
+Sitemap: https://voidamen.github.io/css/voidamen.voidamen
+Sitemap: https://voidamen.github.io/includes/voidamen.voidamen
+Sitemap: https://voidamen.github.io/item/voidamen.voidamen
+Sitemap: https://voidamen.github.io/src/voidamen.voidamen
